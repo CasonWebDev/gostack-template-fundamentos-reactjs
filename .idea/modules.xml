@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/gostack-template-fundamentos-reactjs.iml" filepath="$PROJECT_DIR$/.idea/gostack-template-fundamentos-reactjs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gostack-template-typeorm-upload/.idea/gostack-template-typeorm-upload.iml" filepath="$PROJECT_DIR$/../gostack-template-typeorm-upload/.idea/gostack-template-typeorm-upload.iml" />
+    </modules>
+  </component>
+</project>
